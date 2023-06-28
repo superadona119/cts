@@ -39,7 +39,7 @@
 5. How can you optimize the performance of a WordPress website? Select all that apply.
    - [x] a) Caching
    - [x] b) Minification of CSS and JavaScript files
-   - [ ] c) Using a CDN (Content Delivery Network)
+   - [x] c) Using a CDN (Content Delivery Network)
    - [x] d) Implementing lazy loading of images
 
 6. What is the difference between a shortcode and a widget in WordPress?
