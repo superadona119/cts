@@ -198,6 +198,7 @@ class Company {
     }
 }
 
+Test
 
 $employee_1 = new Employee('Dusan Simic', 'Manager', 40000.0);
 $employee_2 = new Employee('Patrick', 'Norris', 30000.0);
@@ -208,7 +209,6 @@ $company->add_employee($employee_2);
 
 echo 'Total Employees: ' . $company->get_employee_count();
 echo 'Average Salary: ' . $company->get_average_salary();
-
 foreach ($company->get_employees() as $employee) {
     echo '<h2>' . $employee->get_employee_info() . '</h2>';
 }
